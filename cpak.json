@@ -4,7 +4,7 @@
   "name": "Fedora Linux",
   "description": "Fedora Linux 44 for persistent development and system environments.",
   "version": "44",
-  "image": "ghcr.io/containerpak/fedora-cpak@sha256:7a4a785191e304a2f6e645b150d7de4804045129a8c887d6657975263158f071",
+  "image": "ghcr.io/containerpak/fedora-cpak@sha256:23eea38a15bec32bf35e5dde98078db9b7c746e7075b7de58c1056fad7b7abc1",
   "binaries": [
     "/bin/bash"
   ],
